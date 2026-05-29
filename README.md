@@ -1,5 +1,5 @@
 # 💫 About Me:
-Full Stack Development|Software Engineering
+Full Stack Developer | Software Engineering
 
 
 ## 🌐 Socials:
